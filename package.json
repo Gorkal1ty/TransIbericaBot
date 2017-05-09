@@ -1,0 +1,23 @@
+{
+  "name": "transibericabot",
+  "version": "1.0.0",
+  "description": "chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "repositorio_git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "gbarron",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
